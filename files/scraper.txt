@@ -1,0 +1,1716 @@
+{
+    "headings": [
+        "Quick Links",
+        "Founder",
+        "History",
+        "Milestones",
+        "Vision, Mission & Goals",
+        "Core Values",
+        "Educational Philosophy",
+        "Profile",
+        "Autonomous",
+        "Management",
+        "Principal's Message",
+        "Department of Commerce [UG]",
+        "Bachelor of Commerce (B.Com.)",
+        "B.Com Logi. and Supply Chain Manag.",
+        "B.Com Business Process Management",
+        "Department of Professional Accounting & Finance",
+        "B.Com Professional [B.Com Prof.]",
+        "B.Com ACCA Integrated",
+        "B.Com Business Analytics",
+        "B.Com CMA",
+        "B.Com International Business and Finance",
+        "B.Com. Investment Banking",
+        "Department of Commerce [PG]",
+        "Master of Commerce [M.Com]",
+        "M.Com Financial Analysis [M.Com FA]",
+        "Department of Economics",
+        "M.Sc. Economics",
+        "BA Applied Economics",
+        "One Year PG Diploma",
+        "1 Year PG Diploma for Working Executives",
+        "Department of Management [UG]",
+        "Bachelor of Busines Administration [BBA]",
+        "Department of Professional Management Studies",
+        "BBA Aviation Management",
+        "BBA Business Analytics",
+        "BBA Tourism and Hospitality Management",
+        "BBA Branding & Advertising",
+        "BBA Retail Management",
+        "BBA International Business",
+        "Department of Life Science",
+        "B.Sc  Biotechnology & Genetics",
+        "B.Sc Microbiology & Genetics",
+        "B.Sc Biotechnology & Botany",
+        "B.Sc Biotechnology & Biochemistry",
+        "B.Sc Biotechnology & Forensic Science",
+        "M.Sc Biotechnology",
+        "M.Sc Microbiology",
+        "M.Sc Biochemistry",
+        "Department of Forensic Science",
+        "B.Sc. Forensic Science",
+        "B.Sc. Forensic Science, Criminology",
+        "M.Sc. Forensic Science",
+        "Department of Computer Science [PG]",
+        "Master of Computer Applications [MCA]",
+        "M.Sc. Computer Science",
+        "M.Sc. Data Science",
+        "Department of Computer Science [UG]",
+        "Bachelor of Computer Applications [BCA]",
+        "BCA with Analytics",
+        "BCA Cloud Computing",
+        "BCA Cyber Security",
+        "BCA Internet of Things (IoT)",
+        "B.Sc Data Science",
+        "B.Sc. Artificial Intelligence and Machine Learning",
+        "Department of Physical Sciences",
+        "B.Sc Computer Science, Mathematics",
+        "B.Sc Computer Science, Electronics",
+        "B.Sc Physics, Computer Science",
+        "B.Sc Statistics, Mathematics",
+        "B.Sc Statistics, Economics",
+        "B.Sc Statistics, Computer Science",
+        "Department of Media Studies",
+        "MA Journalism & Mass Communication",
+        "BA Journalism and Mass Communication",
+        "B.Sc. Visual Communication",
+        "BA Journalism & English Literature",
+        "BA Journalism & Political Science",
+        "Department of English",
+        "MA English Literature",
+        "BA English Literature",
+        "Department of Social Work",
+        "Master of Social Work [MSW]",
+        "Dept of Social Sciences & Languages",
+        "BA Political Science & Sociology",
+        "BA History & Political Science",
+        "MA Public Administration",
+        "Department of Psychology",
+        "M.Sc Psychology",
+        "M.Sc Counselling Psychology",
+        "M.Sc Clinical Psychology",
+        "B.Sc Psychology",
+        "BA Psychology & Journalism",
+        "BA  Psychology & English Literature",
+        "Centre for Research",
+        "Research Promotion Policy",
+        "Research Advisory Committee",
+        "Code of Ethics in Research",
+        "Consultancy & Corporate Training",
+        "Research Ethics Committe",
+        "Research Centres",
+        "Research Projects",
+        "Research Publications",
+        "Intellectual Property Advisory (IPA) Cell",
+        "Research Promotion Activities",
+        "KIARA - Newsletter",
+        "Kristu Jayanti College",
+        "Smart Medicinal Garden",
+        "Seminar Halls and Auditoria",
+        "Laboratories",
+        "Green Campus",
+        "Smart Campus",
+        "Inclusiveness & Accessibility",
+        "Sports & Games",
+        "Hostel",
+        "Cafeteria",
+        "Guest House",
+        "Usage of Smart Board",
+        "Wifi facilities",
+        "Kristu Jayanti Aerial View",
+        "More Links",
+        "Counselling Center",
+        "Scholarship",
+        "Health Care",
+        "International Student Forum",
+        "Alumni Association",
+        "Coaching Center",
+        "Anti - Ragging Committee",
+        "Grievance Redressal Committee",
+        "Student Welfare Committee",
+        "Internal Compliance Committee",
+        "Extra-Curricular ActivitiesCommittee",
+        "IQAC / Academic Audit Committee",
+        "SC/ST Harassment Prevention Cell",
+        "Capacity Development & Skills Enhancement Activities",
+        "Women's Empowerment Cell",
+        "Centre for Indian Knowledge System",
+        "Welcome toKristu Jayanti College",
+        "Facilities for PhysicallyChallenged Students",
+        "Faculty Publications",
+        "Higher Studies & Placements",
+        "Outreach & Extension",
+        "Featured links",
+        "Arts, Commerce & Science College",
+        "School of Management",
+        "College of Law",
+        "Admissions",
+        "Media Room",
+        "Placements",
+        "Find us",
+        "ABOUT",
+        "ACADEMICS",
+        "",
+        "CAMPUS"
+    ],
+    "paragraphs": [
+        "Kristu Jayanti College, founded in 1999, is run by \"BODHI NIKETAN TRUST\", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).",
+        "The College bears a transcendent acclaim with an exuberant plethora of academic excellence and ethos, fulfilling the mission to provide standard opportunities for the global competencies.",
+        "The College has accomplished a considerable number of commendable milestones within a short span of few years.",
+        "Light & Prosperity: Redefining new beginnings and the endless possibilities in achieving global standards.",
+        "The College is mounted on the four paramount pillars – Faith, Integrity, Dignity and Excellence to progress in the interminable journey of excellence.",
+        "Kristu Jayanti College engages students in a charismatic transformation and integrated learning process anchoring a unique blend of tradition and excellence.",
+        "Kristu Jayanti College identifies and cultivates an aesthetic sense of purpose within every individual inspiring them to be responsible and independent.",
+        "Kristu Jayanti College has been conferred the Academic Autonomy from the academic year 2013-2014 and continues to be an affiliated college of the Bangalore University.",
+        "Kristu Jayanti College expands its horizons for the students to experience Intellectual excellence and a diversity of culture, transforming individuals to become exemplary leaders of tomorrows.",
+        "The academic fraternity is an active community of learners who pursue knowledge as an active and dynamic phenomenon with infinite and immense possibilities.",
+        "The school of Management offers two years Management Programme MBA..Read More",
+        "Kristu Jayanti College (Autonomous) offers various undergraduate and postgraduate programmes..Read More",
+        "Kristu Jayanti College offers Master’s Degree in Computer Application (MCA) with the intention to produce..Read More",
+        "Kristu Jayanti College of Law offers 5 years integrated BA LL.B., BBA LL.B., B.Com LL.B..Read More",
+        "The institution's infrastructure is at pace with the changing needs of the student population. To be on par with the scientific and technological advancements, parallel expansion of infrastructure in the form of laboratories, library and other learning resources such as computers, e-resources and Wi-Fi facility are initiated.Physical facilities have been expanded to create an ambience conducive for academic excellence and holistic development. Various departments and administrative sections are housed in the Main Block. The MBA and MCA programmes function in a separate block. The college has spacious class rooms, auditoria, laboratories, conference halls, panel rooms and sports facilities.",
+        "Kristu Jayanti College, founded in 1999, is managed by \"BODHI NIKETAN TRUST\", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).",
+        "The institution strives to fulfill its mission to provide educational opportunities for all aspiring young people to excel in life by developing academic excellence, fostering values, creating civic responsibility, inculcating environmental concern and building global competencies in a dynamic environment.",
+        "The College is affiliated to Bengaluru North University and is reaccredited with grade 'A++' in 2021 by NAAC in the Third Cycle of Accreditation. The college is recognized by UGC under the category 2(f) & 12(B). The College has been accorded Autonomous Status since 2013 by the University Grants Commission, the Government of Karnataka & Bangalore University.",
+        "In the NIRF 2024, Our college has been ranked 60thplace in the top 100 colleges in the country. The programmes of School of Management are internationally accredited by the Accreditation Council for Business Schools and Programs [ACBSP, USA]. The college was accorded ‘DBT Star College status under the strengthening component’ by the Department of Biotechnology, the Ministry of Science & Technology and the Government of India. The institution received first prize at the National Level for ‘Clean and Smart Campus Award’ from Shri. Dharmendra Pradhan, Minister of Education, Govt. of India.",
+        "In the India Today - MDRA survey 2024, Kristu Jayanti College, Bengaluru is consecutively ranked as the Best Emerging College of the Century at National Level for Commerce, Science, Arts and Social Work. At the National level, the survey ranked the college as 4th Best in BCA, 12th Best in MSW, 20th Best in BBA, 21st Best in Commerce and Arts, 26th Best in Mass Communication, 28th Best in Science Programmes. The College is ranked as 2nd Best in MSW, 3rd Best in BCA and Commerce, 4th Best in Arts and Science, 5th Best in Mass Communication and 6th Best in BBA programmes among the colleges in Bengaluru.",
+        "Read More",
+        "Kristu Jayanti College (Autonomous) offers various undergraduate and postgraduate programmes",
+        "The school of Management offers two year MBA Programme",
+        "Kristu Jayanti College of Law offers 5 years integratedBA LL.B., BBA LL.B., B.Com LL.B",
+        "Read More",
+        "To Find the Programme of your choice, to apply online, know the counselling / interview schedule & know the online counselling results.",
+        "Kristu Jayanti College Media Room acts as a liaison between the college and the public, especially media and other stakeholders. It also provides details of all major activities of the college through press releases and other multimedia formats.",
+        "Placement cell helps the students in Career mentoring to select the right career path, training to enhance employability and support the students to get placed in top notch Companies.",
+        "Read More",
+        "Contact us",
+        "080-68737777 | Fax: 080-68737799",
+        "info@kristujayanti.com"
+    ],
+    "links": [
+        {
+            "text": "",
+            "url": "https://www.kristujayanti.edu.in/home/index.php"
+        },
+        {
+            "text": "UN SDG1",
+            "url": "https://www.kristujayanti.edu.in/UN-SDG1/"
+        },
+        {
+            "text": "UBA",
+            "url": "https://www.kristujayanti.edu.in/UBA/index.php"
+        },
+        {
+            "text": "NIRF",
+            "url": "https://www.kristujayanti.edu.in/iqac/iqac_nirf-2024.php"
+        },
+        {
+            "text": "IQAC",
+            "url": "https://www.kristujayanti.edu.in/iqac/iqac_Quality-Policy.php"
+        },
+        {
+            "text": "ARIIA",
+            "url": "https://www.kristujayanti.edu.in/jayantian_special/ARIIA-Ranking.php"
+        },
+        {
+            "text": "KJC Journals",
+            "url": "http://www.kristujayantijournal.com/"
+        },
+        {
+            "text": "Library",
+            "url": "https://www.kristujayanti.edu.in/Library/"
+        },
+        {
+            "text": "Kristu Jayanti in News",
+            "url": "https://www.kristujayanti.edu.in/home/kristu-jayanti-in-news.php"
+        },
+        {
+            "text": "Contact Us",
+            "url": "https://www.kristujayanti.edu.in/home/contact-us.php"
+        },
+        {
+            "text": "Home",
+            "url": "https://www.kristujayanti.edu.in/home/index.php"
+        },
+        {
+            "text": "About Us",
+            "url": "#"
+        },
+        {
+            "text": "Examination",
+            "url": "https://www.kristujayanti.edu.in/examination/introduction.php"
+        },
+        {
+            "text": "Placements",
+            "url": "https://www.kristujayanti.edu.in/placements/index.php"
+        },
+        {
+            "text": "Career",
+            "url": "https://www.kristujayanti.edu.in/career/career.php"
+        },
+        {
+            "text": "Attendance",
+            "url": "https://www.tcsion.com/SelfServices/"
+        },
+        {
+            "text": "Notices & Announcements",
+            "url": "https://www.kristujayanti.edu.in/notice/notice.php"
+        },
+        {
+            "text": "Governing Body",
+            "url": "https://www.kristujayanti.edu.in/about/Governing-Body.php"
+        },
+        {
+            "text": "Academic Council",
+            "url": "https://www.kristujayanti.edu.in/about/Academic-Council.php"
+        },
+        {
+            "text": "Founder",
+            "url": "https://www.kristujayanti.edu.in/about/founder.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/about/founder.php"
+        },
+        {
+            "text": "History",
+            "url": "https://www.kristujayanti.edu.in/about/history.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/about/history.php"
+        },
+        {
+            "text": "Milestones",
+            "url": "https://www.kristujayanti.edu.in/about/milestones.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/about/milestones.php"
+        },
+        {
+            "text": "Vision, Mission & Goals",
+            "url": "https://www.kristujayanti.edu.in/about/vision_mission_goals.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/about/vision_mission_goals.php"
+        },
+        {
+            "text": "Core Values",
+            "url": "https://www.kristujayanti.edu.in/about/core_values.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/about/core_values.php"
+        },
+        {
+            "text": "Educational Philosophy",
+            "url": "https://www.kristujayanti.edu.in/about/educational_philosophy.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/about/educational_philosophy.php"
+        },
+        {
+            "text": "Profile",
+            "url": "https://www.kristujayanti.edu.in/about/profile.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/about/profile.php"
+        },
+        {
+            "text": "Autonomous",
+            "url": "https://www.kristujayanti.edu.in/about/autonomous.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/about/autonomous.php"
+        },
+        {
+            "text": "Management",
+            "url": "https://www.kristujayanti.edu.in/about/management.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/about/management.php"
+        },
+        {
+            "text": "Principal's Message",
+            "url": "https://www.kristujayanti.edu.in/about/message.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/about/message.php"
+        },
+        {
+            "text": "Academics",
+            "url": "#"
+        },
+        {
+            "text": "School of Management",
+            "url": "https://www.kristujayantimba.edu.in/"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayantimba.edu.in/"
+        },
+        {
+            "text": "College of Arts, Commerce  & Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/"
+        },
+        {
+            "text": "MCA Programme",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/"
+        },
+        {
+            "text": "College of Law",
+            "url": "https://www.kristujayantilaw.edu.in/"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayantilaw.edu.in/"
+        },
+        {
+            "text": "Department of Commerce [UG]",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/commerce.php"
+        },
+        {
+            "text": "Bachelor of Commerce (B.Com.)",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/bcom.php"
+        },
+        {
+            "text": "B.Com Logi. and Supply Chain Manag.",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/bcom-Logistics.php"
+        },
+        {
+            "text": "B.Com Business Process Management",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/bcom-Business-Process-Management.php"
+        },
+        {
+            "text": "Department of Professional Accounting & Finance",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Accounting-Finance/professional-accounting.php"
+        },
+        {
+            "text": "B.Com Professional [B.Com Prof.]",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Accounting-Finance/bcom_professioal.php"
+        },
+        {
+            "text": "B.Com ACCA Integrated",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Accounting-Finance/bcom_integrated_bcom_acca.php"
+        },
+        {
+            "text": "B.Com Business Analytics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Accounting-Finance/bcom-Business-Analytics.php"
+        },
+        {
+            "text": "B.Com CMA",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Accounting-Finance/bcom-cma.php"
+        },
+        {
+            "text": "B.Com International Business and Finance",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Accounting-Finance/Bcom-International-Business-Finance.php"
+        },
+        {
+            "text": "B.Com. Investment Banking",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Accounting-Finance/bcom-Investment-Banking.php"
+        },
+        {
+            "text": "Department of Commerce [PG]",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce-pg/commerce-pg.php"
+        },
+        {
+            "text": "Master of Commerce [M.Com]",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce-pg/mcom.php"
+        },
+        {
+            "text": "M.Com Financial Analysis [M.Com FA]",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce-pg/mcom_fa.php"
+        },
+        {
+            "text": "Department of Economics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/economics/economics.php"
+        },
+        {
+            "text": "M.Sc. Economics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/economics/msc_economics.php"
+        },
+        {
+            "text": "BA Applied Economics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/humanities/ba-applied-economics.php"
+        },
+        {
+            "text": "One Year PG Diploma",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/management/management.php"
+        },
+        {
+            "text": "1 Year PG Diploma for Working Executives",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/management/pg_diploma.php"
+        },
+        {
+            "text": "Department of Management [UG]",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/management/management.php"
+        },
+        {
+            "text": "Bachelor of Busines Administration [BBA]",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/management/bba.php"
+        },
+        {
+            "text": "Department of Professional Management Studies",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Management-Studies/professional-management-studies.php"
+        },
+        {
+            "text": "BBA Aviation Management",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Management-Studies/bba-Aviation-Management.php"
+        },
+        {
+            "text": "BBA Business Analytics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Management-Studies/bba-Business-Analytics.php"
+        },
+        {
+            "text": "BBA Tourism and Hospitality Management",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Management-Studies/bba-Tourism-Hospitality-Management.php"
+        },
+        {
+            "text": "BBA Branding & Advertising",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Management-Studies/bba-Branding-Advertising.php"
+        },
+        {
+            "text": "BBA Retail Management",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Management-Studies/bba-Retail-Management.php"
+        },
+        {
+            "text": "BBA International Business",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Management-Studies/BBA-International-Business.php"
+        },
+        {
+            "text": "Department of Life Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/Lifescintro.php"
+        },
+        {
+            "text": "B.Sc  Biotechnology & Genetics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/Bsc-Biotechnology-Genetics.php"
+        },
+        {
+            "text": "B.Sc Microbiology & Genetics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/Bsc-Microbiology-Genetics.php"
+        },
+        {
+            "text": "B.Sc Biotechnology & Botany",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/Bsc-Biotechnology-Botany.php"
+        },
+        {
+            "text": "B.Sc Biotechnology & Biochemistry",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/Bsc-Biotechnology-Biochemistry.php"
+        },
+        {
+            "text": "B.Sc Biotechnology & Forensic Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/Bsc-Biotechnology-Forensicscience.php"
+        },
+        {
+            "text": "M.Sc Biotechnology",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/msc_bio.php"
+        },
+        {
+            "text": "M.Sc Microbiology",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/msc_micro.php"
+        },
+        {
+            "text": "M.Sc Biochemistry",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/msc-biochemistry.php"
+        },
+        {
+            "text": "Department of Forensic Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-forensicscience/Forensic-Science.php"
+        },
+        {
+            "text": "B.Sc. Forensic Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-forensicscience/BSc-Forensic-Science.php"
+        },
+        {
+            "text": "B.Sc. Forensic Science, Criminology",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-forensicscience/BSc-Forensic-Science-Criminology.php"
+        },
+        {
+            "text": "M.Sc. Forensic Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-forensicscience/MSc-Forensic-Science.php"
+        },
+        {
+            "text": "Department of Computer Science [PG]",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/"
+        },
+        {
+            "text": "Master of Computer Applications [MCA]",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/Master-Computer-Applications.php"
+        },
+        {
+            "text": "M.Sc. Computer Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/MSc-Computer-Science.php"
+        },
+        {
+            "text": "M.Sc. Data Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/MSc-Data-Science.php"
+        },
+        {
+            "text": "Department of Computer Science [UG]",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/computer_science.php"
+        },
+        {
+            "text": "Bachelor of Computer Applications [BCA]",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/bca.php"
+        },
+        {
+            "text": "BCA with Analytics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/bca-analytics.php"
+        },
+        {
+            "text": "BCA Cloud Computing",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/bca-Cloud-Computing.php"
+        },
+        {
+            "text": "BCA Cyber Security",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/bca-Cyber-Security.php"
+        },
+        {
+            "text": "BCA Internet of Things (IoT)",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/BCA-Internet-of-Things.php"
+        },
+        {
+            "text": "B.Sc Data Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/BSc-Data-Science.php"
+        },
+        {
+            "text": "B.Sc. Artificial Intelligence and Machine Learning",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/BSc-Artificial-Intelligence-Machine-Learning.php"
+        },
+        {
+            "text": "Department of Physical Sciences",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-physical-sciences/physical-sciences.php"
+        },
+        {
+            "text": "B.Sc Computer Science, Mathematics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-physical-sciences/BSc-CSMM.php"
+        },
+        {
+            "text": "B.Sc Computer Science, Electronics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-physical-sciences/BSc-CSEL.php"
+        },
+        {
+            "text": "B.Sc Physics, Computer Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-physical-sciences/BSc-PHCS.php"
+        },
+        {
+            "text": "B.Sc Statistics, Mathematics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-physical-sciences/BSc-STMM.php"
+        },
+        {
+            "text": "B.Sc Statistics, Economics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-physical-sciences/BSc-STEC.php"
+        },
+        {
+            "text": "B.Sc Statistics, Computer Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-physical-sciences/BSc-STCS.php"
+        },
+        {
+            "text": "Department of Media Studies",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/journalism/journalism.php"
+        },
+        {
+            "text": "MA Journalism & Mass Communication",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/journalism/journalism.php"
+        },
+        {
+            "text": "BA Journalism and Mass Communication",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/journalism/ba-journalism-mass-communication.php"
+        },
+        {
+            "text": "B.Sc. Visual Communication",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/journalism/bsc_Visual-Communication.php"
+        },
+        {
+            "text": "BA Journalism & English Literature",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/journalism/ba-journalism-english.php"
+        },
+        {
+            "text": "BA Journalism & Political Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/journalism/ba-journalism-politicalscience.php"
+        },
+        {
+            "text": "Department of English",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/english/English-Landing.php"
+        },
+        {
+            "text": "MA English Literature",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/english/ma_english_literature.php"
+        },
+        {
+            "text": "BA English Literature",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/english/BA-English-Literature.php"
+        },
+        {
+            "text": "Department of Social Work",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/socialwork/social_work.php"
+        },
+        {
+            "text": "Master of Social Work [MSW]",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/socialwork/master_socialwork.php"
+        },
+        {
+            "text": "Dept of Social Sciences & Languages",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/Social-Sciences/social-sciences.php"
+        },
+        {
+            "text": "BA Political Science & Sociology",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/Social-Sciences/BA-Political-Science-Sociology.php"
+        },
+        {
+            "text": "BA History & Political Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/Social-Sciences/BA-History-Political-Science.php"
+        },
+        {
+            "text": "MA Public Administration",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/Social-Sciences/MA-Public-Administration.php"
+        },
+        {
+            "text": "Department of Psychology",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/psychology/psychology.php"
+        },
+        {
+            "text": "M.Sc Psychology",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/psychology/msc_program.php"
+        },
+        {
+            "text": "M.Sc Counselling Psychology",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/psychology/msc-Psychological-Counselling.php"
+        },
+        {
+            "text": "M.Sc Clinical Psychology",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/psychology/msc-Clinical Psychology.php"
+        },
+        {
+            "text": "B.Sc Psychology",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/psychology/BSc-Psychology.php"
+        },
+        {
+            "text": "BA Psychology & Journalism",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/psychology/BA-Psychology-Journalism.php"
+        },
+        {
+            "text": "BA  Psychology & English Literature",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/psychology/BA-Psychology-English.php"
+        },
+        {
+            "text": "Research",
+            "url": "#"
+        },
+        {
+            "text": "Centre for Research",
+            "url": "https://www.kristujayanti.edu.in/research/centre_for_research.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/research/centre_for_research.php"
+        },
+        {
+            "text": "Research Promotion Policy",
+            "url": "https://www.kristujayanti.edu.in/research/Research-Promotion-Policy.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/research/Research-Promotion-Policy.php"
+        },
+        {
+            "text": "Research Advisory Committee",
+            "url": "https://www.kristujayanti.edu.in/research/Research-Advisory-Committee.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/research/Research-Advisory-Committee.php"
+        },
+        {
+            "text": "Code of Ethics in Research",
+            "url": "https://www.kristujayanti.edu.in/research/Code-Ethics-Research.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/research/Code-Ethics-Research.php"
+        },
+        {
+            "text": "Consultancy & Corporate Training",
+            "url": "https://www.kristujayanti.edu.in/Consultancy/index.html"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/Consultancy/index.html"
+        },
+        {
+            "text": "Research Ethics Committe",
+            "url": "https://www.kristujayanti.edu.in/research/research-ethics-committee.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/research/research-ethics-committee.php"
+        },
+        {
+            "text": "Research Centres",
+            "url": "https://www.kristujayanti.edu.in/research/research-centres.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/research/research-centres.php"
+        },
+        {
+            "text": "Research Projects",
+            "url": "https://www.kristujayanti.edu.in/research/research_projects.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/research/research_projects.php"
+        },
+        {
+            "text": "Research Publications",
+            "url": "https://www.kristujayanti.edu.in/research/publications.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/research/publications.php"
+        },
+        {
+            "text": "Intellectual Property Advisory (IPA) Cell",
+            "url": "https://www.kristujayanti.edu.in/research/IPA-Cell.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/research/IPA-Cell.php"
+        },
+        {
+            "text": "Research Promotion Activities",
+            "url": "https://www.kristujayanti.edu.in/research/research-promotion-activites.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/research/research-promotion-activites.php"
+        },
+        {
+            "text": "KIARA - Newsletter",
+            "url": "../pdf/2021/KIARA.pdf"
+        },
+        {
+            "text": "Read More",
+            "url": "../pdf/2021/KIARA.pdf"
+        },
+        {
+            "text": "Campus",
+            "url": "#"
+        },
+        {
+            "text": "Kristu Jayanti College",
+            "url": "https://www.kristujayanti.edu.in/campus/academic_arena.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/campus/academic_arena.php"
+        },
+        {
+            "text": "Smart Medicinal Garden",
+            "url": "https://www.kristujayanti.edu.in/campus/Smart-Medicinal-Garden.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/campus/Smart-Medicinal-Garden.php"
+        },
+        {
+            "text": "Seminar Halls and Auditoria",
+            "url": "../campus/pdf/Auditoria_Seminar_Halls.pdf"
+        },
+        {
+            "text": "Read More",
+            "url": "../campus/pdf/Auditoria_Seminar_Halls.pdf"
+        },
+        {
+            "text": "Laboratories",
+            "url": "https://www.kristujayanti.edu.in/campus/labs.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/campus/labs.php"
+        },
+        {
+            "text": "Green Campus",
+            "url": "https://www.kristujayanti.edu.in/campus/Green-Campus.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/campus/Green-Campus.php"
+        },
+        {
+            "text": "Smart Campus",
+            "url": "https://www.kristujayanti.edu.in/campus/Smart-Water-Monitoring-System.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/campus/Smart-Water-Monitoring-System.php"
+        },
+        {
+            "text": "Inclusiveness & Accessibility",
+            "url": "https://www.kristujayanti.edu.in/campus/Inclusiveness-Accessibility.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/campus/Inclusiveness-Accessibility.php"
+        },
+        {
+            "text": "Sports & Games",
+            "url": "https://www.kristujayanti.edu.in/campus/sports_games.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/campus/sports_games.php"
+        },
+        {
+            "text": "Hostel",
+            "url": "https://www.kristujayanti.edu.in/campus/hostel.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/campus/hostel.php"
+        },
+        {
+            "text": "Cafeteria",
+            "url": "https://www.kristujayanti.edu.in/campus/cafeteria.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/campus/cafeteria.php"
+        },
+        {
+            "text": "Guest House",
+            "url": "https://www.kristujayanti.edu.in/campus/Guest-House.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/campus/Guest-House.php"
+        },
+        {
+            "text": "Usage of Smart Board",
+            "url": "https://www.kristujayanti.edu.in/campus/Usage-smart-board.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/campus/Usage-smart-board.php"
+        },
+        {
+            "text": "Wifi facilities",
+            "url": "../campus/pdf/Wifi_facilities.pdf"
+        },
+        {
+            "text": "Read More",
+            "url": "../campus/pdf/Auditoria_Seminar_Halls.pdf"
+        },
+        {
+            "text": "Kristu Jayanti Aerial View",
+            "url": "https://www.kristujayanti.edu.in/KJC-Ariel-View.mp4"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/KJC-Ariel-View.mp4"
+        },
+        {
+            "text": "Student Services",
+            "url": "#"
+        },
+        {
+            "text": "Online Document Verification",
+            "url": "https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx"
+        },
+        {
+            "text": "Entrepreneurship and Innovation Centre(EIC)",
+            "url": "https://www.kristujayanti.edu.in/student_services/eic.php"
+        },
+        {
+            "text": "Jayantian Entrepreneurs",
+            "url": "https://www.kristujayanti.edu.in/Jayantian-Alumni-Entrepreneurs/index.php"
+        },
+        {
+            "text": "Value Added Syllabus",
+            "url": "https://www.kristujayanti.edu.in/student_services/VAC_Syllabi.php"
+        },
+        {
+            "text": "Counselling Center",
+            "url": "https://www.kristujayanti.edu.in/student_services/counselling_center.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/student_services/counselling_center.php"
+        },
+        {
+            "text": "Scholarship",
+            "url": "https://www.kristujayanti.edu.in/student_services/scholarship.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/student_services/scholarship.php"
+        },
+        {
+            "text": "Health Care",
+            "url": "https://www.kristujayanti.edu.in/student_services/health_care.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/student_services/health_care.php"
+        },
+        {
+            "text": "International Student Forum",
+            "url": "https://www.kristujayanti.edu.in/student_services/international_student_forum.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/student_services/international_student_forum.php"
+        },
+        {
+            "text": "Alumni Association",
+            "url": "https://www.kristujayanti.edu.in/home/Alumni-Association.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/home/Alumni-Association.php"
+        },
+        {
+            "text": "Coaching Center",
+            "url": "https://www.kristujayanti.edu.in/student_services/coaching_center.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/student_services/coaching_center.php"
+        },
+        {
+            "text": "Anti - Ragging Committee",
+            "url": "https://www.kristujayanti.edu.in/committee/Anti-Ragging.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/committee/Anti-Ragging.php"
+        },
+        {
+            "text": "Grievance Redressal Committee",
+            "url": "https://www.kristujayanti.edu.in/committee/Grievance-Redressal.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/committee/Grievance-Redressal.php"
+        },
+        {
+            "text": "Student Welfare Committee",
+            "url": "https://www.kristujayanti.edu.in/committee/Student-Welfare.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/committee/Student-Welfare.php"
+        },
+        {
+            "text": "Internal Compliance Committee",
+            "url": "https://www.kristujayanti.edu.in/committee/Internal-Compliance.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/committee/Internal-Compliance.php"
+        },
+        {
+            "text": "Extra-Curricular ActivitiesCommittee",
+            "url": "https://www.kristujayanti.edu.in/committee/Extra-Curricular-Activities.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/committee/Extra-Curricular-Activities.php"
+        },
+        {
+            "text": "IQAC / Academic Audit Committee",
+            "url": "https://www.kristujayanti.edu.in/committee/Academic-Audit.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/committee/Academic-Audit.php"
+        },
+        {
+            "text": "SC/ST Harassment Prevention Cell",
+            "url": "https://www.kristujayanti.edu.in/committee/SC-ST-harassment.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/committee/SC-ST-harassment.php"
+        },
+        {
+            "text": "Capacity Development & Skills Enhancement Activities",
+            "url": "https://www.kristujayanti.edu.in/student_services/Capacity-Development-Skills-Enhancement-Activities.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/student_services/Capacity-Development-Skills-Enhancement-Activities.php"
+        },
+        {
+            "text": "Women's Empowerment Cell",
+            "url": "https://www.kristujayanti.edu.in/studentlife/women_empowerment_cell.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/studentlife/women_empowerment_cell.php"
+        },
+        {
+            "text": "Centre for Indian Knowledge System",
+            "url": "https://www.kristujayanti.edu.in/student_services/Indian-Knowledge-System.php"
+        },
+        {
+            "text": "Read More",
+            "url": "https://www.kristujayanti.edu.in/student_services/Indian-Knowledge-System.php"
+        },
+        {
+            "text": "Admission",
+            "url": "https://www.kristujayanti.edu.in/admission/admission.php"
+        },
+        {
+            "text": "Academic Calendar",
+            "url": "https://kristujayanti.edu.in/iqac/Academic-Calendar.php"
+        },
+        {
+            "text": "TCS iON",
+            "url": "https://www.tcsion.com/SelfServices/"
+        },
+        {
+            "text": "Email",
+            "url": "https://www.google.com/a/kristujayanti.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/a/kristujayanti.com/<mpl=default<mplcache=2"
+        },
+        {
+            "text": "Hand Book 2024-2025",
+            "url": "../pdf/2024/hand-book-2024-25.pdf"
+        },
+        {
+            "text": "Events/Enroll for an Event",
+            "url": "https://portal.kristujayanti.edu.in/auth/login"
+        },
+        {
+            "text": "Jayantian Culture",
+            "url": "../../about/Jayantian-Culture.php"
+        },
+        {
+            "text": "My Blog",
+            "url": "https://kristujayanti.edu.in/my-blog/blog.php"
+        },
+        {
+            "text": "Issue of Documents",
+            "url": "https://kristujayanti.edu.in/about/Students-Support-Services.php"
+        },
+        {
+            "text": "Jayantian Code of Conduct",
+            "url": "https://kristujayanti.edu.in/home/Jayantian-Code-Conduct.php"
+        },
+        {
+            "text": "KJC Arena",
+            "url": "http://172.21.5.10:8080/kjcarena/"
+        },
+        {
+            "text": "Wellbeing Centre",
+            "url": "http://172.21.5.5:4200"
+        },
+        {
+            "text": "Security Check App",
+            "url": "https://securitycheck.vercel.app/login"
+        },
+        {
+            "text": "Programme Pattern",
+            "url": "https://kristujayanti.edu.in/examination/semester_pattern_ug_pg.php"
+        },
+        {
+            "text": "Examination Calendar",
+            "url": "https://kristujayanti.edu.in/examination/Examination-Calendar-exam.php"
+        },
+        {
+            "text": "Assessment Regulations",
+            "url": "https://kristujayanti.edu.in/examination/assessment_norms.php"
+        },
+        {
+            "text": "Examination Circulars",
+            "url": "https://kristujayanti.edu.in/examination/Examination-Fee-Circular.php"
+        },
+        {
+            "text": "POST-EXAM Procedure",
+            "url": "https://kristujayanti.edu.in/examination/grievance_redressal.php"
+        },
+        {
+            "text": "View Exam Result",
+            "url": "https://results.kristujayanti.edu.in/"
+        },
+        {
+            "text": "Examination Time Table",
+            "url": "https://kristujayanti.edu.in/examination/end_semester_trimester_examination_time_table.php"
+        },
+        {
+            "text": "Guidelines for Fee Payment",
+            "url": "../../examination/pdf/2018/Steps-online-fee-payment.pdf"
+        },
+        {
+            "text": "Circulars",
+            "url": "https://kristujayanti.edu.in/notice/notice.php"
+        },
+        {
+            "text": "Literary & Cultural Association",
+            "url": "https://kristujayanti.edu.in/studentlife/art_culture.php"
+        },
+        {
+            "text": "Sports & Games",
+            "url": "https://kristujayanti.edu.in/studentlife/sports_games.php"
+        },
+        {
+            "text": "Clubs and Associations",
+            "url": "https://kristujayanti.edu.in/studentlife/clubs-associations.php"
+        },
+        {
+            "text": "Jayantian Extension Services",
+            "url": "https://kristujayanti.edu.in/studentlife/jayantian-extension-services.php"
+        },
+        {
+            "text": "Academic / Co-curricular Fests",
+            "url": "https://kristujayanti.edu.in/studentlife/academic-co-curricular-fests.php"
+        },
+        {
+            "text": "Music Academy (KJMA)",
+            "url": "https://kristujayanti.edu.in/studentlife/Music-Academy.php"
+        },
+        {
+            "text": "Convocation Guidelines",
+            "url": "https://kristujayanti.edu.in/about/Convocation.php"
+        },
+        {
+            "text": "Student Welfare Committee",
+            "url": "../../committee/Student-Welfare.php"
+        },
+        {
+            "text": "Dance Academy (KJDA)",
+            "url": "https://kristujayanti.edu.in/studentlife/Kristu-Jayanti-Dance-Academy.php"
+        },
+        {
+            "text": "Vichaarmanthan",
+            "url": "https://kristujayanti.edu.in/jayantian_special/vichaarmanthan.php"
+        },
+        {
+            "text": "Skill Enhancement Centres",
+            "url": "https://kristujayanti.edu.in/jayantian_special/skill-enhancement-centres.php"
+        },
+        {
+            "text": "Life Skills Education",
+            "url": "https://kristujayanti.edu.in/jayantian_special/centre_life_skills.php"
+        },
+        {
+            "text": "Entrepreneurship & Innovation",
+            "url": "https://kristujayanti.edu.in/student_services/eic.php"
+        },
+        {
+            "text": "CPELL",
+            "url": "https://kristujayanti.edu.in/jayantian_special/CPELL.php"
+        },
+        {
+            "text": "NPTEL",
+            "url": "https://kristujayanti.edu.in/about/NPTEL.php"
+        },
+        {
+            "text": "KJLMS",
+            "url": "https://www.kristujayantiexamlms.com/login/index.php"
+        },
+        {
+            "text": "Incubation Centre",
+            "url": "https://kristujayanti.edu.in/jayantian_special/kj-incubation-centre.php"
+        },
+        {
+            "text": "Centre for Soft Skills Training",
+            "url": "https://kristujayanti.edu.in/jayantian_special/Centre-Soft-Skills-Training.php"
+        },
+        {
+            "text": "J-RISE",
+            "url": "https://kristujayanti.edu.in/Open-Educational-Resources/index.php"
+        },
+        {
+            "text": "Jayantian Language Training",
+            "url": "https://kristujayanti.edu.in/jayantian_special/Language-Training-Centre.php"
+        },
+        {
+            "text": "KJC IRINS Instance",
+            "url": "https://kristujayanti.irins.org/"
+        },
+        {
+            "text": "College",
+            "url": "../achivements/college.php"
+        },
+        {
+            "text": "Students",
+            "url": "../achivements/students.php"
+        },
+        {
+            "text": "Faculty",
+            "url": "../achivements/faculty.php"
+        },
+        {
+            "text": "",
+            "url": "../achivements/college.php"
+        },
+        {
+            "text": "",
+            "url": "../achivements/students.php"
+        },
+        {
+            "text": "",
+            "url": "../achivements/faculty.php"
+        },
+        {
+            "text": "NIRF College File",
+            "url": "https://kristujayanti.edu.in/iqac/iqac_nirf-2020.php"
+        },
+        {
+            "text": "Facilities for PhysicallyChallenged Students",
+            "url": "https://kristujayanti.edu.in/iqac/pdf/2020/Facilities-Physically-Challenged-Students-2020.pdf"
+        },
+        {
+            "text": "Faculty Publications",
+            "url": "https://kristujayanti.edu.in/iqac/pdf/2020/Faculty-Publications.pdf"
+        },
+        {
+            "text": "Higher Studies & Placements",
+            "url": "https://kristujayanti.edu.in/iqac/iqac_nirf-2020.php"
+        },
+        {
+            "text": "Outreach & Extension",
+            "url": "https://kristujayanti.edu.in/iqac/pdf/2020/Jayantian-Extension-Services-2018-2019-new.pdf"
+        },
+        {
+            "text": "Read More",
+            "url": "../notice/news-new.php"
+        },
+        {
+            "text": "Erasmus In School",
+            "url": "../Erasmus/index.php"
+        },
+        {
+            "text": "Collaborations",
+            "url": "../collaborations/collaborations.php"
+        },
+        {
+            "text": "Alumni Connect",
+            "url": "../Alumni-Connect/index.php"
+        },
+        {
+            "text": "Conferences, Seminars, FDP's Workshops",
+            "url": "../Conference-Seminar-Fdp-Workshop/index.php"
+        },
+        {
+            "text": "Career Opportunities",
+            "url": "../career/career.php"
+        },
+        {
+            "text": "Consultancy",
+            "url": "../Consultancy/index.html"
+        },
+        {
+            "text": "Arts, Commerce & Science CollegeKristu Jayanti College (Autonomous) offers various undergraduate and postgraduate programmesKnow More",
+            "url": "../academics/College-Arts-Science-Commerce/index.php"
+        },
+        {
+            "text": "Know More",
+            "url": "../academics/College-Arts-Science-Commerce/index.php"
+        },
+        {
+            "text": "School of ManagementThe school of Management offers two year MBA ProgrammeKnow More",
+            "url": "https://www.kristujayantimba.edu.in/"
+        },
+        {
+            "text": "Know More",
+            "url": "https://www.kristujayantimba.edu.in/"
+        },
+        {
+            "text": "College of LawKristu Jayanti College of Law offers 5 years integratedBA LL.B., BBA LL.B., B.Com LL.BKnow More",
+            "url": "https://www.kristujayantilaw.edu.in/"
+        },
+        {
+            "text": "Know More",
+            "url": "https://www.kristujayantilaw.edu.in/"
+        },
+        {
+            "text": "Read More",
+            "url": "../events/events-new.php"
+        },
+        {
+            "text": "AdmissionsTo Find the Programme of your choice, to apply online, know the counselling / interview schedule & know the online counselling results.Know More",
+            "url": "../admission/admission.php"
+        },
+        {
+            "text": "Know More",
+            "url": "../admission/admission.php"
+        },
+        {
+            "text": "Media RoomKristu Jayanti College Media Room acts as a liaison between the college and the public, especially media and other stakeholders. It also provides details of all major activities of the college through press releases and other multimedia formats.Know More",
+            "url": "../media_room/index.php"
+        },
+        {
+            "text": "Know More",
+            "url": "../media_room/index.php"
+        },
+        {
+            "text": "PlacementsPlacement cell helps the students in Career mentoring to select the right career path, training to enhance employability and support the students to get placed in top notch Companies.Know More",
+            "url": "../placements/index.php"
+        },
+        {
+            "text": "Know More",
+            "url": "../placements/index.php"
+        },
+        {
+            "text": "Read More",
+            "url": "../notice/news-new.php"
+        },
+        {
+            "text": "",
+            "url": "https://www.kristujayanti.edu.in/iqac/ACCREDITATION.php"
+        },
+        {
+            "text": "",
+            "url": "https://www.kristujayanti.edu.in/iqac/iqac_nirf-2024.php"
+        },
+        {
+            "text": "",
+            "url": "https://www.kristujayanti.edu.in/UN-SDG1/"
+        },
+        {
+            "text": "",
+            "url": "https://www.kristujayantimba.edu.in/Accreditation-ACBSP.php"
+        },
+        {
+            "text": "",
+            "url": "../campus/Green-Campus.php"
+        },
+        {
+            "text": "",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/DBT-Star-College-Scheme.php"
+        },
+        {
+            "text": "",
+            "url": "#"
+        },
+        {
+            "text": "",
+            "url": "#"
+        },
+        {
+            "text": "",
+            "url": "../home/Overall-Championship-LCA.php"
+        },
+        {
+            "text": "",
+            "url": "#"
+        },
+        {
+            "text": "",
+            "url": "../collaborations/index.php"
+        },
+        {
+            "text": "",
+            "url": "../jayantian_special/vichaarmanthan.php"
+        },
+        {
+            "text": "[CLICK HERE FOR MORE DETAILS]",
+            "url": "https://www.kristujayanti.edu.in/examination/Examination-Fee-Circular.php"
+        },
+        {
+            "text": "Contact us",
+            "url": "https://www.kristujayanti.edu.in/home/contact-us.php"
+        },
+        {
+            "text": "",
+            "url": "https://www.facebook.com/KristuJayantiCollege"
+        },
+        {
+            "text": "",
+            "url": "https://www.youtube.com/@KristuJayantiCollegeAutonomous/videos"
+        },
+        {
+            "text": "",
+            "url": "https://twitter.com/KJCAutonomous"
+        },
+        {
+            "text": "",
+            "url": "https://www.pinterest.com/kristujayanti/"
+        },
+        {
+            "text": "",
+            "url": "https://www.linkedin.com/school/kristujayanticollegeautonomous/"
+        },
+        {
+            "text": "",
+            "url": "https://www.instagram.com/kristujayanticollegeautonomous/"
+        },
+        {
+            "text": "» Founder",
+            "url": "https://www.kristujayanti.edu.in/about/founder.php"
+        },
+        {
+            "text": "» History",
+            "url": "https://www.kristujayanti.edu.in/about/history.php"
+        },
+        {
+            "text": "» Vision, Missions & Goals",
+            "url": "https://www.kristujayanti.edu.in/about/vision_mission_goals.php"
+        },
+        {
+            "text": "» Core Values",
+            "url": "https://www.kristujayanti.edu.in/about/core_values.php"
+        },
+        {
+            "text": "» Profile",
+            "url": "https://www.kristujayanti.edu.in/about/profile.php"
+        },
+        {
+            "text": "» Educational Philosophy",
+            "url": "https://www.kristujayanti.edu.in/about/educational_philosophy.php"
+        },
+        {
+            "text": "» Management",
+            "url": "https://www.kristujayanti.edu.in/about/management.php"
+        },
+        {
+            "text": "» Principal's Message",
+            "url": "https://www.kristujayanti.edu.in/about/message.php"
+        },
+        {
+            "text": "» MBA",
+            "url": "https://www.kristujayantimba.edu.in/"
+        },
+        {
+            "text": "» MCA",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/index.php"
+        },
+        {
+            "text": "» Commerce (UG)",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/commerce.php"
+        },
+        {
+            "text": "» Pro. Accounting & Finance",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/Professional-Accounting-Finance/professional-accounting.php"
+        },
+        {
+            "text": "» Commerce (PG)",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce-pg/commerce-pg.php"
+        },
+        {
+            "text": "» Economics",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/economics/economics.php"
+        },
+        {
+            "text": "» Management (UG)",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/management/management.php"
+        },
+        {
+            "text": "» Post Graduate Diploma",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/management/pg_diploma.php"
+        },
+        {
+            "text": "» Computer Science (UG)",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/computer_science.php"
+        },
+        {
+            "text": "» Life Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/Lifescintro.php"
+        },
+        {
+            "text": "» Forensic Science",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-forensicscience/Forensic-Science.php"
+        },
+        {
+            "text": "» English",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/english/English-Landing.php"
+        },
+        {
+            "text": "» Media Studies",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/journalism/journalism.php"
+        },
+        {
+            "text": "» Social Sciences & Lang.",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/Social-Sciences/social-sciences.php"
+        },
+        {
+            "text": "» Psychology",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/psychology/psychology.php"
+        },
+        {
+            "text": "» Social Work",
+            "url": "https://www.kristujayanti.edu.in/academics/College-Arts-Science-Commerce/Faculty-Humanities/socialwork/social_work.php"
+        },
+        {
+            "text": "» Library",
+            "url": "https://www.kristujayanti.edu.in/Library/index.html"
+        },
+        {
+            "text": "» Labs",
+            "url": "https://www.kristujayanti.edu.in/campus/labs.php"
+        },
+        {
+            "text": "» Sports & games",
+            "url": "https://www.kristujayanti.edu.in/campus/sports_games.php"
+        },
+        {
+            "text": "» Cafeteria",
+            "url": "https://www.kristujayanti.edu.in/campus/cafeteria.php"
+        },
+        {
+            "text": "» ATM",
+            "url": "https://www.kristujayanti.edu.in/campus/atm.php"
+        },
+        {
+            "text": "» Hostel",
+            "url": "https://www.kristujayanti.edu.in/campus/hostel.php"
+        },
+        {
+            "text": "» Blog",
+            "url": "https://www.kristujayanti.edu.in/my-blog/blog.php"
+        },
+        {
+            "text": "",
+            "url": "../Erasmus/index.php"
+        },
+        {
+            "text": "Privacy Policy",
+            "url": "../privacy_policy.php"
+        },
+        {
+            "text": "Terms of Service",
+            "url": "#"
+        },
+        {
+            "text": "➤",
+            "url": "#"
+        }
+    ],
+    "images": [
+        {
+            "alt": "Kristu Jayanti College logo",
+            "src": "https://www.kristujayanti.edu.in/images/kjc-flag-latest.png"
+        },
+        {
+            "alt": "college achievements icon",
+            "src": "https://kristujayanti.edu.in/images/achievements/college_achievement.png"
+        },
+        {
+            "alt": "students achievements icon ",
+            "src": "https://kristujayanti.edu.in/images/achievements/students_achievement.png"
+        },
+        {
+            "alt": "faculty achievements icon",
+            "src": "https://kristujayanti.edu.in/images/achievements/faculty_achievement.png"
+        },
+        {
+            "alt": "Autonomous College",
+            "src": "../images/artss.jpg"
+        },
+        {
+            "alt": "School of Management",
+            "src": "../images/mba.jpg"
+        },
+        {
+            "alt": "College of Law",
+            "src": "../images/moot-court.jpg"
+        },
+        {
+            "alt": "",
+            "src": "../images/admission-21.jpg"
+        },
+        {
+            "alt": "",
+            "src": "../images/media.jpg"
+        },
+        {
+            "alt": "",
+            "src": "../images/placements-icon.jpg"
+        },
+        {
+            "alt": "",
+            "src": "../images/high/1.png"
+        },
+        {
+            "alt": "",
+            "src": "../images/high/nirf-60.png"
+        },
+        {
+            "alt": "",
+            "src": "../images/high/3.png"
+        },
+        {
+            "alt": "",
+            "src": "../images/high/4.png"
+        },
+        {
+            "alt": "",
+            "src": "../images/high/5.png"
+        },
+        {
+            "alt": "",
+            "src": "../images/high/6.png"
+        },
+        {
+            "alt": "",
+            "src": "../images/high/7.png"
+        },
+        {
+            "alt": "",
+            "src": "../images/high/8.png"
+        },
+        {
+            "alt": "",
+            "src": "../images/high/OVERALL-15.png"
+        },
+        {
+            "alt": "",
+            "src": "../images/high/13kstudents.png"
+        },
+        {
+            "alt": "",
+            "src": "../images/high/COLLABORATIONS.png"
+        },
+        {
+            "alt": "",
+            "src": "../images/high/GLOBAL.png"
+        },
+        {
+            "alt": "Kristu Jayanti College Facebook",
+            "src": "https://www.kristujayanti.edu.in/images/facebbok-png-new.png"
+        },
+        {
+            "alt": "Kristu Jayanti College Youtube",
+            "src": "https://www.kristujayanti.edu.in/images/youtube-png-new.png"
+        },
+        {
+            "alt": "Kristu Jayanti College X",
+            "src": "https://www.kristujayanti.edu.in/images/x-png-new.png"
+        },
+        {
+            "alt": "Kristu Jayanti College Pinterest",
+            "src": "https://www.kristujayanti.edu.in/images/pinterest-png-new.png"
+        },
+        {
+            "alt": "Kristu Jayanti College Linkedin",
+            "src": "https://www.kristujayanti.edu.in/images/linkedIn-png-new.png"
+        },
+        {
+            "alt": "Kristu Jayanti College Instagram",
+            "src": "https://www.kristujayanti.edu.in/images/instagram-png-new.png"
+        },
+        {
+            "alt": "",
+            "src": "https://www.kristujayanti.edu.in/images/ERASMUS-LOGO.jpg"
+        }
+    ],
+    "tables": []
+}

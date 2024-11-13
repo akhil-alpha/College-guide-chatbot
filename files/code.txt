@@ -1,0 +1,56 @@
+import google.generativeai as genai
+import random
+import time
+
+# API key for GeNAI
+genai.configure(api_key="AIzaSyCKzDtPDJu1LDKWuQnqARCopN3snhpAsSE")
+model = genai.GenerativeModel("gemini-1.5-flash")
+
+# code to load the scraped data
+def load_scraped_data(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        data = file.read()
+    return data
+
+# College location
+latitude = 13.057955471107546
+longitude = 77.64296707291308
+
+# Google Maps link for the location
+maps_link = f"https://www.google.com/maps?q={13.057955471107546},{77.64296707291308}"
+
+# Welcome message
+print("Welcome to College Guide Bot! I’m here to assist you with any information about our college facilities, events, and locations.")
+time.sleep(1)
+
+# Load the scraped data
+scraped_data = load_scraped_data("scraper.txt")
+
+while True:
+    # Prompt user input
+    user_input = input("\nAsk me anything about the college, or type 'exit' to end our chat: ")
+    f"College Data:\n{scraped_data}\n"
+    "please answer the query in a strucctured format like use numbers,bullet points,or spaces between for easy understanding"
+    "key point should be mnetioned in bullet points \n"
+    "answer:"
+
+    # Exit condition
+    if user_input.lower() == 'exit':
+        print("Goodbye! Have a great day on campus!")
+        break
+
+    # Link to the location of the college(MAP)
+    if 'location' in user_input.lower():
+        print(f"\nHere's the location of our college: {maps_link}")
+        continue
+
+    try:
+        # Use the scraped data as context for generating responses
+        prompt = f"User Query: {user_input}\nCollege Data:\n{scraped_data}\nAnswer:"
+        response = model.generate_content(prompt)
+
+        # Display response
+        print("\nHere's what I found:\n", response.text)
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
