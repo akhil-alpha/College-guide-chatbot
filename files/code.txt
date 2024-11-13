@@ -3,7 +3,7 @@ import random
 import time
 
 # API key for GeNAI
-genai.configure(api_key="AIzaSyCKzDtPDJu1LDKWuQnqARCopN3snhpAsSE")
+genai.configure(api_key="")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # code to load the scraped data
